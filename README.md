@@ -5,12 +5,14 @@
 ## About:
 
 Fonts: Helvetica Neue and Nasalization
+
 Background Color: `#1A1B2B`
+
 Font Color: `#FFFFFF`
+
 Support Colors: `#40A396`, `#E4A93B`, `#C35549`
 
-## Screenshots:
-
+![main](https://raw.githubusercontent.com/raphamorim/raphamorim-keynote-theme/master/screenshots/title.png)
 
 ## License
 
